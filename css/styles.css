@@ -5,15 +5,6 @@ body {
   font-family: Poppins;
 }
 
-@media screen and (max-width: 767px){
-    #main-img{
-        height: 50%;
-    }
-    .form-signin{
-      width: 100%;
-    }
-}
-
 body {
   align-items: center;
   padding-top: 50px;
